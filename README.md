@@ -1,25 +1,28 @@
-### Welcome!!!  
-
----  
-
-#About me:  
-
-I'm a software engineer based out of central Illinois. What I love most about coding is the gratification from solving puzzles and getting things to not JUST work, but work efficiently! I also find it empowering to be able create things and put ideas I have had for years into action!  
-
----  
-
-[![Kathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawhite8503&hide=stars, issues&count_private=true&show_icons=true&theme=nightowl)](https://github.com/kawhite8503/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawhite8503&layout=compact)](https://github.com/kawhite8503/github-readme-stats)
-
-Let's connect!!  
+# Welcome!!!  
   
-![Linked In](https://www.linkedin.com/in/kathy-white-005432241/)  
-![Personal Website](https://kathywhite-portfolio.netlify.app/)  
-
-Experience in:  
-
-
+  
+## About me:  
+  
+  
+I'm a software engineer based out of central Illinois. What I love most about coding is the gratification from solving puzzles and getting things to not JUST work, but work efficiently! I also find it empowering to be able create things and put ideas I have had for years into action!  
+  
+  
+  [![Kathy's GitHub stats](https://github-readme-stats.vercel.app/api?username=kawhite8503&hide=stars,issues&count_private=true&show_icons=true)](https://github.com/kawhite8503/github-readme-stats)
+  
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kawhite8503&layout=compact)](https://github.com/kawhite8503/github-readme-stats)
+  
+  
+## Let's connect!!  
+  
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kathy-white-005432241/)  
+[Personal Website](https://kathywhite-portfolio.netlify.app/)  
+  
+  
+## Experience in:  
+  
+  
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,3 +48,6 @@ Experience in:
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  
+  
+  
